@@ -1,6 +1,6 @@
 # Bludit FastComments Plugin 
 
-[![Bludit](https://img.shields.io/badge/Bludit-v3.9.2-0078D4.svg?style=flat-square)][bludit]
+[![Bludit](https://img.shields.io/badge/Bludit-v3.15.0-0078D4.svg?style=flat-square)][bludit]
 ![Version](https://img.shields.io/github/tag/DivineDominion/bludit-fastcomments.svg?style=flat)
 ![License](https://img.shields.io/github/license/DivineDominion/bludit-fastcomments.svg?style=flat)
 
