@@ -1,6 +1,6 @@
 <?php defined('BLUDIT') or die('Bludit CMS.');
 
-class FastCommentsPlugin  {
+class FastCommentsPlugin extends Plugin {
   const DEFAULT_POSITION = 'pageEnd';
 
   public function init(){
