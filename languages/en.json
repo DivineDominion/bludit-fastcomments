@@ -1,0 +1,7 @@
+{
+  "plugin-data":
+    {
+      "name": "FastComments Plugin",
+      "description" :"Enable comments for pages powered by FastComments."
+    }
+}
