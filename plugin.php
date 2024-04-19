@@ -30,7 +30,7 @@ class FastCommentsPlugin  {
 
     $html .= '<div>';
     $html .= '<label>'.$L->get('FastComments Tenant ID').'</label>';
-    $html .= '<input name="forum_url" value="'.$this->tenantID().'">';
+    $html .= '<input name="tenant_id" value="'.$this->tenantID().'">';
     $html .= '<span class="tip">'.$L->get('The FastComments account identifier.').'</span>';
     $html .= '</div>';
 
